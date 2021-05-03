@@ -1,8 +1,14 @@
-## Welcome to GitHub Pages
+# Price Book
 
-You can use the [editor on GitHub](https://github.com/U1Software/pricebook/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## Welcome to U1 Pages
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+A price book is a list of products and their prices.
+
+Screen Shot 2021-04-29 at 10.55.47 PM![image](https://user-images.githubusercontent.com/83593886/116896483-4b68bf00-ac02-11eb-98c5-b937acc7068b.png)
+
+
+The standard price book is the master list of all your products and their default standard prices. Salesforce creates the standard price book when you start creating product records. It includes all your products and their standard prices regardless of any custom price books that include those products.
+
 
 ### Markdown
 
@@ -25,13 +31,3 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/U1Software/pricebook/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
